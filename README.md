@@ -1,1 +1,1 @@
-# blog.stoner.cards
+# blog.random.cards
